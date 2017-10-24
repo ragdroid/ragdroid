@@ -12,12 +12,12 @@ She will be speaking at [DevFest New Delhi, 2017](https://www.meetup.com/GDGNewD
  - [Android Weekly Issue 265](http://androidweekly.net/issues/issue-265) (*Dagger 2 : Defeat the Dahaka*) Two articles in an issue!! Woohoo!
 
 ### Social Links
- - Twitter : https://twitter.com/ragdroid
- - Github : https://github.com/ragdroid/
- - Medium : https://medium.com/@ragdroid
- - LinkedIn : https://www.linkedin.com/in/ragdroid/
- - Facebook : https://www.facebook.com/ragdr0id
- - Instagram : https://www.instagram.com/ragdr0id/
+ - [Twitter : @ragdroid](https://twitter.com/ragdroid)
+ - [Github : ragdroid](https://github.com/ragdroid/)
+ - [Medium : @ragdroid](https://medium.com/@ragdroid)
+ - [LinkedIn](https://www.linkedin.com/in/ragdroid/)
+ - [Facebook](https://www.facebook.com/ragdr0id)
+ - [Instagram](https://www.instagram.com/ragdr0id/)
  - Snapchat? Orkut? :P
  
 ### Speaking Experience
@@ -54,13 +54,13 @@ She likes to share her findings and experiments with the community and here's a 
 
 She has the following open-source demo projects :
 
- - Rxify : https://github.com/ragdroid/rxify (RxJava)
- - Mockstar : https://github.com/ragdroid/mockstar (Testing)
- - Dahaka :  https://github.com/ragdroid/Dahaka (Dagger 2)
+ - [Rxify](https://github.com/ragdroid/rxify) (RxJava)
+ - [Mockstar](https://github.com/ragdroid/mockstar) (Testing)
+ - [Dahaka](https://github.com/ragdroid/Dahaka) (Dagger 2)
 
 #### Older
- - Secure Preferences : https://github.com/ophio/secure-preferences (KeyStore)
- - FlatBuffer Plugin : https://github.com/ophio/flatbuffer-gradle-plugin (Gradle/FlatBuffer)
+ - [Secure Preferences](https://github.com/ophio/secure-preferences) (KeyStore)
+ - [FlatBuffer Plugin](https://github.com/ophio/flatbuffer-gradle-plugin) (Gradle/FlatBuffer)
 
 
 #### Others
