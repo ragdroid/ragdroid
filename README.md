@@ -1,8 +1,8 @@
 Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Senior Android Engineer at [Fueled](https://fueled.com/) Noida, where she builds awesome Android apps. She is also an international speaker and an active technical blogger. Before Fueled, she has worked with [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also a post-graduate from [IIT Jodhpur](http://iitj.ac.in/).
 
 ### Latest 
-
-She will be speaking at [DevFest New Delhi, 2017](https://www.meetup.com/GDGNewDelhi/events/243302149/) : *"Dagger 2 Android : Defeat the Dahaka"* on *29th Oct, 2017*
+ - All Set! for [GDD India](https://developers.google.com/events/gdd-india/).
+ - She gave a talk at [DevFest New Delhi, 2017](https://www.meetup.com/GDGNewDelhi/events/243302149/) : *"Dagger 2 Android : Defeat the Dahaka"* on *29th Oct, 2017*
 
 ### Coolest \m/
 
@@ -28,12 +28,13 @@ She has spoken at the following events / conferences so far:
  - [GDG January Meetup Codelab, 2017](https://github.com/gdgnewdelhi/talks/blob/master/past_talk_titles.md) : *"Rxify : A Talk to Remember"*
  - [Droidcon Boston, 2017](https://academy.realm.io/posts/rxify-rxjava-operators-droid-boston-jain-2017/) : *"Rxify : A simple spell for complex RxJava operators"*
  - [Droidcon Berlin, 2017](https://www.youtube.com/watch?v=iczp_toHxmA) : *"Dagger 2 Android : Defeat the Dahaka"*
- - [DevFest New Delhi, 2017](https://www.meetup.com/GDGNewDelhi/events/243302149/) : *"Dagger 2 Android : Defeat the Dahaka", Will be speaking on 29th Oct, 2017*
+ - [DevFest New Delhi, 2017](https://www.meetup.com/GDGNewDelhi/events/243302149/) : *"Dagger 2 Android : Defeat the Dahaka"*
  
 ### Blogging Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her.
 
+ - Nov, 2017 : [Dagger 2 Annotations : @Binds & @ContributesAndroidInjector](https://proandroiddev.com/dagger-2-annotations-binds-contributesandroidinjector-a09e6a57758f)
  - Sep, 2017 : [Dagger 2 : Component Relationships & Custom Scopes](https://proandroiddev.com/dagger-2-component-relationships-custom-scopes-8d7e05e70a37)
  - Jul, 2017 : [Dagger 2 : SingleCheck, DoubleCheck, Scopes](https://proandroiddev.com/dagger-2-check-singlecheck-doublecheck-scopes-4ee48fc31736)
  - Jul, 2017 : [Dagger 2 Component.Builder](https://proandroiddev.com/dagger-2-component-builder-1f2b91237856)
@@ -75,6 +76,10 @@ She has the following open-source demo projects :
  - [Clocked](https://play.google.com/store/apps/details?id=com.fueled.clocked)
  - [BnC](https://play.google.com/store/apps/developer?id=Barnes+%26+Noble+College&hl=en)
  
- Thank you for reading this long description about Garima Jain.
+ #### Research Publications
+  - [InternetHDR](http://ieeexplore.ieee.org/document/6811307/?reload=true&lipi=urn:li:page:d_flagship3_profile_view_base;GKgou9lJTrmcWCpOBEeTJw%3D%3D): Enhancing an LDR image using visually similar Internet images, IEEE, NCC 2014.
+  - [Chronicle security against covert crawling](https://dl.acm.org/citation.cfm?id=2490434&lipi=urn%253Ali%253Apage%253Ad_flagship3_profile_view_base%253BGKgou9lJTrmcWCpOBEeTJw%253D%253D), ACM Digital Library, SecurIT 2012.
+ 
+ Thank you for reading this looong post about Garima Jain.
 
 
