@@ -76,9 +76,9 @@ She has the following open-source demo projects :
  - [Clocked](https://play.google.com/store/apps/details?id=com.fueled.clocked)
  - [BnC](https://play.google.com/store/apps/developer?id=Barnes+%26+Noble+College&hl=en)
  
- ### Research Publications
-  - [InternetHDR](http://ieeexplore.ieee.org/document/6811307/?reload=true&lipi=urn:li:page:d_flagship3_profile_view_base;GKgou9lJTrmcWCpOBEeTJw%3D%3D): Enhancing an LDR image using visually similar Internet images, IEEE, NCC 2014.
-  - [Chronicle security against covert crawling](https://dl.acm.org/citation.cfm?id=2490434&lipi=urn%253Ali%253Apage%253Ad_flagship3_profile_view_base%253BGKgou9lJTrmcWCpOBEeTJw%253D%253D), ACM Digital Library, SecurIT 2012.
+ ### Research Paper Publications
+  - [InternetHDR](http://ieeexplore.ieee.org/document/6811307/?reload=true&lipi=urn:li:page:d_flagship3_profile_view_base;GKgou9lJTrmcWCpOBEeTJw%3D%3D): Enhancing an LDR image using visually similar Internet images, *IEEE, NCC 2014*.
+  - [Chronicle security against covert crawling](https://dl.acm.org/citation.cfm?id=2490434&lipi=urn%253Ali%253Apage%253Ad_flagship3_profile_view_base%253BGKgou9lJTrmcWCpOBEeTJw%253D%253D), *ACM Digital Library, SecurIT 2012*.
  
  Thank you for reading this looong post about Garima Jain.
 
