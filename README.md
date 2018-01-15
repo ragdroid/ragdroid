@@ -1,7 +1,8 @@
 Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Senior Android Engineer at [Fueled](https://fueled.com/) Noida, where she builds awesome Android apps. She is also an international speaker and an active technical blogger. Before Fueled, she has worked with [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also a post-graduate from [IIT Jodhpur](http://iitj.ac.in/).
 
 ### Latest 
- - All Set! for [GDD India](https://developers.google.com/events/gdd-india/).
+ - Co-Organizing [Droidcon Boston, 2018](http://www.droidcon-boston.com/) *26th-27th March, 2018* 
+ - Attended [GDD India](https://developers.google.com/events/gdd-india/) in *December, 2017*.
  - She gave a talk at [DevFest New Delhi, 2017](https://www.meetup.com/GDGNewDelhi/events/243302149/) : *"Dagger 2 Android : Defeat the Dahaka"* on *29th Oct, 2017*
 
 ### Coolest \m/
