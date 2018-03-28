@@ -1,9 +1,9 @@
 Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Senior Android Engineer at [Fueled](https://fueled.com/) Noida, where she builds awesome Android apps. She is also an international speaker and an active technical blogger. Before Fueled, she has worked with [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also a post-graduate from [IIT Jodhpur](http://iitj.ac.in/).
 
 ### Latest 
- - Co-Organizing [Droidcon Boston, 2018](http://www.droidcon-boston.com/) *26th-27th March, 2018* 
- - Attended [GDD India](https://developers.google.com/events/gdd-india/) in *December, 2017*.
- - She gave a talk at [DevFest New Delhi, 2017](https://www.meetup.com/GDGNewDelhi/events/243302149/) : *"Dagger 2 Android : Defeat the Dahaka"* on *29th Oct, 2017*
+ - Speaking at [Chicago Roboto, 2018](https://chicagoroboto.com/sessions/dagger-2-android-defeat-dahaka/) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
+ - Gave a talk at [Droidcon Boston, 2018](https://speakerdeck.com/ragdroid/why-mvi-model-view-intent-the-curious-case-of-yet-another-pattern) : *"Why MVI? - Curious case of yet another pattern"* on *27th March, 2018* 
+ - Co-Organized [Droidcon Boston, 2018](http://www.droidcon-boston.com/) on *26th - 27th March, 2018* 
 
 ### Coolest \m/
 
@@ -21,16 +21,18 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Se
  - [Instagram](https://www.instagram.com/ragdr0id/)
  - Snapchat? Orkut? :P
  
-### Speaking Experience
+### Community Experience
 
-She has spoken at the following events / conferences so far:
+She has spoken / organized the following events / conferences so far:
 
- - [Droidcon India, 2016](https://hasgeek.tv/droidconin/droidconin-2016-day-1/1258-rxify-a-simple-spell-for-complex-rxjava-operators) : *"Rxify : A simple spell for complex RxJava operators"*
- - [GDG January Meetup Codelab, 2017](https://github.com/gdgnewdelhi/talks/blob/master/past_talk_titles.md) : *"Rxify : A Talk to Remember"*
- - [Droidcon Boston, 2017](https://academy.realm.io/posts/rxify-rxjava-operators-droid-boston-jain-2017/) : *"Rxify : A simple spell for complex RxJava operators"*
- - [Droidcon Berlin, 2017](https://www.youtube.com/watch?v=iczp_toHxmA) : *"Dagger 2 Android : Defeat the Dahaka"*
- - [DevFest New Delhi, 2017](https://www.meetup.com/GDGNewDelhi/events/243302149/) : *"Dagger 2 Android : Defeat the Dahaka"*
- 
+ - Speaker : [Droidcon Boston, 2018](https://speakerdeck.com/ragdroid/why-mvi-model-view-intent-the-curious-case-of-yet-another-pattern) : *"Why MVI? - Curious case of yet another pattern"* on *26th-27th March, 2018* 
+ - Co-organizer : [Droidcon Boston, 2018](http://www.droidcon-boston.com/) *26th-27th March, 2018* 
+ - Speaker : [DevFest New Delhi, 2017](https://www.meetup.com/GDGNewDelhi/events/243302149/) : *"Dagger 2 Android : Defeat the Dahaka"*
+ - Speaker : [Droidcon Berlin, 2017](https://www.youtube.com/watch?v=iczp_toHxmA) : *"Dagger 2 Android : Defeat the Dahaka"*
+ - Speaker : [Droidcon Boston, 2017](https://academy.realm.io/posts/rxify-rxjava-operators-droid-boston-jain-2017/) : *"Rxify : A simple spell for complex RxJava operators"*
+ - Speaker : [GDG January Meetup Codelab, 2017](https://github.com/gdgnewdelhi/talks/blob/master/past_talk_titles.md) : *"Rxify : A Talk to Remember"*
+ - Speaker : [Droidcon India, 2016](https://hasgeek.tv/droidconin/droidconin-2016-day-1/1258-rxify-a-simple-spell-for-complex-rxjava-operators) : *"Rxify : A simple spell for complex RxJava operators"*
+
 ### Blogging Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her.
@@ -59,7 +61,7 @@ She has the following open-source demo projects :
  - [Rxify](https://github.com/ragdroid/rxify) (RxJava)
  - [Mockstar](https://github.com/ragdroid/mockstar) (Testing)
  - [Dahaka](https://github.com/ragdroid/Dahaka) (Dagger 2)
- - [Klaygrodung](https://github.com/ragdroid/klayground) (Kotlin + MVI)
+ - [Klayground](https://github.com/ragdroid/klayground) (Kotlin + MVI)
 
 ### Older
  - [Secure Preferences](https://github.com/ophio/secure-preferences) (KeyStore)
