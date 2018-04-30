@@ -2,7 +2,7 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Se
 
 ### Latest 
  - Gave a talk at [Chicago Roboto, 2018](https://chicagoroboto.com/sessions/dagger-2-android-defeat-dahaka/) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
- - Gave a talk at [Droidcon Boston, 2018](https://speakerdeck.com/ragdroid/why-mvi-model-view-intent-the-curious-case-of-yet-another-pattern) : *"Why MVI? - Curious case of yet another pattern"* on *27th March, 2018* 
+ - Gave a talk at [Droidcon Boston, 2018](https://www.youtube.com/watch?time_continue=358&v=KpuFW-jamVo) : *"Why MVI? - Curious case of yet another pattern"* on *27th March, 2018* 
  - Co-Organized [Droidcon Boston, 2018](http://www.droidcon-boston.com/) on *26th - 27th March, 2018* 
 
 ### Coolest \m/
@@ -26,7 +26,7 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Se
 She has spoken / organized the following events / conferences so far:
 
  - Speaker : [Chicago Roboto, 2018](https://chicagoroboto.com/sessions/dagger-2-android-defeat-dahaka/) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
- - Speaker : [Droidcon Boston, 2018](https://speakerdeck.com/ragdroid/why-mvi-model-view-intent-the-curious-case-of-yet-another-pattern) : *"Why MVI? - Curious case of yet another pattern"* on *26th-27th March, 2018* 
+ - Speaker : [Droidcon Boston, 2018](https://www.youtube.com/watch?time_continue=358&v=KpuFW-jamVo) : *"Why MVI? - Curious case of yet another pattern"* on *26th-27th March, 2018* 
  - Co-organizer : [Droidcon Boston, 2018](http://www.droidcon-boston.com/) *26th-27th March, 2018* 
  - Speaker : [DevFest New Delhi, 2017](https://www.meetup.com/GDGNewDelhi/events/243302149/) : *"Dagger 2 Android : Defeat the Dahaka"*
  - Speaker : [Droidcon Berlin, 2017](https://www.youtube.com/watch?v=iczp_toHxmA) : *"Dagger 2 Android : Defeat the Dahaka"*
