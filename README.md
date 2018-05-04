@@ -8,6 +8,7 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Se
 ### Coolest \m/
 
  - **Android Dialogs** with [Garima Jain : Rxify : RxJava + Harry Potter](https://www.youtube.com/watch?v=5JO7Q6HO52w)
+ - [Android Weekly Issue 307](http://androidweekly.net/issues/issue-307) (*`Why MVI?` : A curious case of yet another pattern*)
  - [Android Weekly Issue 233](http://androidweekly.net/issues/issue-233) (*`Rxify` : The Anti Cache-then-Network OR Network-then-Cache Problem*)
  - [Android Weekly Issue 248](http://androidweekly.net/issues/issue-248) (*How to be a Mock Star?*)
  - [Android Weekly Issue 265](http://androidweekly.net/issues/issue-265) (*Dagger 2 : Defeat the Dahaka*) Two articles in an issue!! Woohoo!
