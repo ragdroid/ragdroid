@@ -38,7 +38,9 @@ She has spoken / organized the following events / conferences so far:
 ### Blogging Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her.
-
+ 
+ - May, 2018 : [Why MVI? -- The State Problem](https://medium.com/fueled-engineering/why-mvi-the-state-problem-ee867c7da20c)
+ - May, 2018 : [Why MVI? -- The Curious Case of Yet Another Pattern](https://medium.com/fueled-engineering/why-mvi-538ee07f0f32)
  - Nov, 2017 : [Dagger 2 Annotations : @Binds & @ContributesAndroidInjector](https://proandroiddev.com/dagger-2-annotations-binds-contributesandroidinjector-a09e6a57758f)
  - Sep, 2017 : [Dagger 2 : Component Relationships & Custom Scopes](https://proandroiddev.com/dagger-2-component-relationships-custom-scopes-8d7e05e70a37)
  - Jul, 2017 : [Dagger 2 : SingleCheck, DoubleCheck, Scopes](https://proandroiddev.com/dagger-2-check-singlecheck-doublecheck-scopes-4ee48fc31736)
