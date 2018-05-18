@@ -39,6 +39,7 @@ She has spoken / organized the following events / conferences so far:
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her.
  
+ - May, 2018 : [Rxify : The startWith { MVI } pitfall](https://medium.com/@ragdroid/rxify-the-startwith-mvi-pitfall-68764ae8946d)
  - May, 2018 : [Why MVI? -- The State Problem](https://medium.com/fueled-engineering/why-mvi-the-state-problem-ee867c7da20c)
  - May, 2018 : [Why MVI? -- The Curious Case of Yet Another Pattern](https://medium.com/fueled-engineering/why-mvi-538ee07f0f32)
  - Nov, 2017 : [Dagger 2 Annotations : @Binds & @ContributesAndroidInjector](https://proandroiddev.com/dagger-2-annotations-binds-contributesandroidinjector-a09e6a57758f)
