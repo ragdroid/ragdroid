@@ -1,6 +1,7 @@
 Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Senior Android Engineer at [Fueled](https://fueled.com/) Noida, where she builds awesome Android apps. She is also an international speaker and an active technical blogger. Before Fueled, she has worked with [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also a post-graduate from [IIT Jodhpur](http://iitj.ac.in/).
 
 ### Latest 
+ - Gave a talk at [Droidjam India, 2018](https://www.droidjam.in/#schedule) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
  - Gave a talk at [Chicago Roboto, 2018](https://chicagoroboto.com/sessions/dagger-2-android-defeat-dahaka/) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
  - Gave a talk at [Droidcon Boston, 2018](https://www.youtube.com/watch?time_continue=358&v=KpuFW-jamVo) : *"Why MVI? - Curious case of yet another pattern"* on *27th March, 2018* 
  - Co-Organized [Droidcon Boston, 2018](http://www.droidcon-boston.com/) on *26th - 27th March, 2018* 
@@ -27,6 +28,7 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Se
 
 She has spoken / organized the following events / conferences so far:
 
+ - Speaker : [Droidjam India, 2018](https://www.droidjam.in/#schedule) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
  - Speaker : [Chicago Roboto, 2018](https://chicagoroboto.com/sessions/dagger-2-android-defeat-dahaka/) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
  - Speaker : [Droidcon Boston, 2018](https://www.youtube.com/watch?time_continue=358&v=KpuFW-jamVo) : *"Why MVI? - Curious case of yet another pattern"* on *26th-27th March, 2018* 
  - Co-organizer : [Droidcon Boston, 2018](http://www.droidcon-boston.com/) *26th-27th March, 2018* 
@@ -36,10 +38,11 @@ She has spoken / organized the following events / conferences so far:
  - Speaker : [GDG January Meetup Codelab, 2017](https://github.com/gdgnewdelhi/talks/blob/master/past_talk_titles.md) : *"Rxify : A Talk to Remember"*
  - Speaker : [Droidcon India, 2016](https://hasgeek.tv/droidconin/droidconin-2016-day-1/1258-rxify-a-simple-spell-for-complex-rxjava-operators) : *"Rxify : A simple spell for complex RxJava operators"*
 
-### Blogging Experience 
+### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her.
  
+ - July, 2018 [No Version? No Problem! .. Jitpack comes to the rescue](https://medium.com/@ragdroid/no-version-no-problem-jitpack-comes-to-the-rescue-d8754b335c34)
  - May, 2018 : [Rxify : The startWith { MVI } pitfall](https://medium.com/@ragdroid/rxify-the-startwith-mvi-pitfall-68764ae8946d)
  - May, 2018 : [Why MVI? -- The State Problem](https://medium.com/fueled-engineering/why-mvi-the-state-problem-ee867c7da20c)
  - May, 2018 : [Why MVI? -- The Curious Case of Yet Another Pattern](https://medium.com/fueled-engineering/why-mvi-538ee07f0f32)
