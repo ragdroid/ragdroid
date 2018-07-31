@@ -1,7 +1,8 @@
 Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Senior Android Engineer at [Fueled](https://fueled.com/) Noida, where she builds awesome Android apps. She is also an international speaker and an active technical blogger. Before Fueled, she has worked with [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also a post-graduate from [IIT Jodhpur](http://iitj.ac.in/).
 
 ### Latest 
- - Gave a talk at [Droidjam India, 2018](https://www.droidjam.in/#schedule) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
+ - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
+ - Gave a talk at [Droidjam India, 2018](https://www.youtube.com/watch?v=IRCd6aftFkE&index=12&t=2s&list=PLbgP71NCXCqFr6djMCR3KnZez31toGXS3) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
  - Gave a talk at [Chicago Roboto, 2018](https://chicagoroboto.com/sessions/dagger-2-android-defeat-dahaka/) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
  - Gave a talk at [Droidcon Boston, 2018](https://www.youtube.com/watch?time_continue=358&v=KpuFW-jamVo) : *"Why MVI? - Curious case of yet another pattern"* on *27th March, 2018* 
  - Co-Organized [Droidcon Boston, 2018](http://www.droidcon-boston.com/) on *26th - 27th March, 2018* 
@@ -9,6 +10,7 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Se
 ### Coolest \m/
 
  - **Android Dialogs** with [Garima Jain : Rxify : RxJava + Harry Potter](https://www.youtube.com/watch?v=5JO7Q6HO52w)
+ - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
  - [Android Weekly Issue 320](https://androidweekly.net/issues/issue-320) (*No Version? No Problem! .. Jitpack comes to the rescue*)
  - [Android Weekly Issue 310](https://androidweekly.net/issues/issue-310) (*`Rxify` : The startWith { MVI } pitfall*)
  - [Android Weekly Issue 307](http://androidweekly.net/issues/issue-307) (*`Why MVI?` : A curious case of yet another pattern*)
@@ -27,9 +29,8 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Se
  
 ### Community Experience
 
-She has spoken / organized the following events / conferences so far:
-
- - Speaker : [Droidjam India, 2018](https://www.droidjam.in/#schedule) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
+ - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
+ - Speaker : [Droidjam India, 2018](https://www.youtube.com/watch?v=IRCd6aftFkE&index=12&t=2s&list=PLbgP71NCXCqFr6djMCR3KnZez31toGXS3) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
  - Speaker : [Chicago Roboto, 2018](https://chicagoroboto.com/sessions/dagger-2-android-defeat-dahaka/) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
  - Speaker : [Droidcon Boston, 2018](https://www.youtube.com/watch?time_continue=358&v=KpuFW-jamVo) : *"Why MVI? - Curious case of yet another pattern"* on *26th-27th March, 2018* 
  - Co-organizer : [Droidcon Boston, 2018](http://www.droidcon-boston.com/) *26th-27th March, 2018* 
@@ -43,6 +44,7 @@ She has spoken / organized the following events / conferences so far:
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her.
  
+ - July, 2018 [Rxify: Error Handling with Subjects (RxRelays)](https://articles.caster.io/android/rxify-error-handling-with-subjects-relays/)
  - July, 2018 [No Version? No Problem! .. Jitpack comes to the rescue](https://medium.com/@ragdroid/no-version-no-problem-jitpack-comes-to-the-rescue-d8754b335c34)
  - May, 2018 : [Rxify : The startWith { MVI } pitfall](https://medium.com/@ragdroid/rxify-the-startwith-mvi-pitfall-68764ae8946d)
  - May, 2018 : [Why MVI? -- The State Problem](https://medium.com/fueled-engineering/why-mvi-the-state-problem-ee867c7da20c)
