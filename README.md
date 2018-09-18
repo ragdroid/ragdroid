@@ -1,6 +1,7 @@
-Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is a Senior Android Engineer at [Fueled](https://fueled.com/) Noida, where she builds awesome Android apps. She is also an international speaker and an active technical blogger. Before Fueled, she has worked with [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also a post-graduate from [IIT Jodhpur](http://iitj.ac.in/).
+Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is working as an Android Engineer at [Over](https://madewithover.com/). Previously she has worked with [Fueled](https://fueled.com/) Noida and [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also an international speaker and an active technical blogger. She has done her post-graduation from [IIT Jodhpur](http://iitj.ac.in/).
 
 ### Latest 
+ - Started working for [Over](https://madewithover.com/).
  - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
  - Gave a talk at [Droidjam India, 2018](https://www.youtube.com/watch?v=IRCd6aftFkE&index=12&t=2s&list=PLbgP71NCXCqFr6djMCR3KnZez31toGXS3) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
  - Gave a talk at [Chicago Roboto, 2018](https://chicagoroboto.com/sessions/dagger-2-android-defeat-dahaka/) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
