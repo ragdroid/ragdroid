@@ -61,12 +61,14 @@ If we look at the method signatures of these three operators, we will notice :
 
 Operators map and onErrorReturn take a function, whereas startWith() actually takes an ObservableSource. ObservableSource is the base interface for any source of items. Classes like Observable extend ObservableSource.
 
-    *// from rxjava2*
+```java
+    // from rxjava2
 
-    **public interface **ObservableSource<T> {
-    *
-        ***void **subscribe(Observer<? **super **T> observer);
+    public interface ObservableSource<T> {
+    
+        void subscribe(Observer<? super T> observer);
     }
+```
 
 In our case, by writing .startWith **{** ProfileResult.Loading **}** we are actually creating an observable source and implementing the subscribe function like :
 
