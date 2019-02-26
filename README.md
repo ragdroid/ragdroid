@@ -86,6 +86,7 @@ She has the following open-source demo projects :
 
 ### Some Client Projects on Play Store
 
+ - [Over](https://play.google.com/store/apps/details?id=app.over.editor)
  - [Rite Aid Pharmacy](https://play.google.com/store/apps/details?id=com.riteaid.android&hl=en)
  - [Richline](https://play.google.com/store/apps/details?id=com.richline.ela&hl=en)
  - [Pezo](https://play.google.com/store/apps/details?id=com.fueled.pezo&hl=en)
