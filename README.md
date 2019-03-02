@@ -44,7 +44,7 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is work
 ### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her.
- 
+ - March, 2019 [Kotlin : When if-else is too mainstream](https://medium.com/@ragdroid/kotlin-when-if-else-is-too-mainstream-acc4b91c2416) 
  - July, 2018 [Rxify: Error Handling with Subjects (RxRelays)](https://articles.caster.io/android/rxify-error-handling-with-subjects-relays/)
  - July, 2018 [No Version? No Problem! .. Jitpack comes to the rescue](https://medium.com/@ragdroid/no-version-no-problem-jitpack-comes-to-the-rescue-d8754b335c34)
  - May, 2018 : [Rxify : The startWith { MVI } pitfall](https://medium.com/@ragdroid/rxify-the-startwith-mvi-pitfall-68764ae8946d)
