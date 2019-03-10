@@ -12,6 +12,7 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is work
 
  - **Android Dialogs** with [Garima Jain : Rxify : RxJava + Harry Potter](https://www.youtube.com/watch?v=5JO7Q6HO52w)
  - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
+ - [Android Weekly Issue 352](https://androidweekly.net/issues/issue-352) (*Rxify: Retry with Exponential Backoff in RxJava*) 
  - [Android Weekly Issue 320](https://androidweekly.net/issues/issue-320) (*No Version? No Problem! .. Jitpack comes to the rescue*)
  - [Android Weekly Issue 310](https://androidweekly.net/issues/issue-310) (*`Rxify` : The startWith { MVI } pitfall*)
  - [Android Weekly Issue 307](http://androidweekly.net/issues/issue-307) (*`Why MVI?` : A curious case of yet another pattern*)
@@ -44,6 +45,7 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is work
 ### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her.
+ - March, 2019 : [Rxify: Retry with Exponential Backoff in RxJava](https://medium.com/over-engineering/rxify-exponential-backoff-on-retry-48bb66912391)
  - March, 2019 :  [Kotlin : When if-else is too mainstream](https://medium.com/@ragdroid/kotlin-when-if-else-is-too-mainstream-acc4b91c2416) 
  - July, 2018 : [Rxify: Error Handling with Subjects (RxRelays)](https://articles.caster.io/android/rxify-error-handling-with-subjects-relays/)
  - July, 2018 : [No Version? No Problem! .. Jitpack comes to the rescue](https://medium.com/@ragdroid/no-version-no-problem-jitpack-comes-to-the-rescue-d8754b335c34)
