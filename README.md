@@ -1,7 +1,9 @@
 Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is working as an Android Engineer at [Over](https://madewithover.com/). Previously she has worked with [Fueled](https://fueled.com/) Noida and [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also an international speaker and an active technical blogger. She has done her post-graduation from [IIT Jodhpur](http://iitj.ac.in/).
 
-### Latest 
- - Speaking at [Droidcon Berlin, 2019](https://www.de.droidcon.com/speaker/Garima-Jain): *A LUT (lot) of image filters on Android* on *July, 2019*
+### Latest
+ - Speaking at [Droidcon NYC, 2019](https://www.nyc.droidcon.com/speaker/Garima-Jain): *Flowing Things, not so strange in the MVI world* on *27th July,2019*
+ - Speaking at [Droidcon London, 2019](https://skillsmatter.com/conferences/11785-droidcon-london-2019#program): *Co-routinify your Architecture Components* on *October, 2019*
+ - Spoke at [Droidcon Berlin, 2019](https://www.droidcon.com/media-detail?video=353348763): *A LUT (lot) of image filters on Android* on *July, 2019*
  - Started working for [Over](https://madewithover.com/).
  - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
  - Gave a talk at [Droidjam India, 2018](https://www.youtube.com/watch?v=IRCd6aftFkE&index=12&t=2s&list=PLbgP71NCXCqFr6djMCR3KnZez31toGXS3) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
@@ -32,6 +34,7 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is work
  
 ### Community Experience
 
+ - Speaker : [Droidcon Berlin, 2019](https://www.droidcon.com/media-detail?video=353348763): *A LUT (lot) of image filters on Android* on *July, 2019*
  - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
  - Speaker : [Droidjam India, 2018](https://www.youtube.com/watch?v=IRCd6aftFkE&index=12&t=2s&list=PLbgP71NCXCqFr6djMCR3KnZez31toGXS3) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
  - Speaker : [Chicago Roboto, 2018](https://chicagoroboto.com/sessions/dagger-2-android-defeat-dahaka/) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
