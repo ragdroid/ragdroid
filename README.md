@@ -1,7 +1,8 @@
 Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is working as an Android Engineer at [Over](https://madewithover.com/). Previously she has worked with [Fueled](https://fueled.com/) Noida and [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also an international speaker and an active technical blogger. She has done her post-graduation from [IIT Jodhpur](http://iitj.ac.in/).
 
 ### Latest
- - Speaking at [Droidcon NYC, 2019](https://www.nyc.droidcon.com/speaker/Garima-Jain): *Flowing Things, not so strange in the MVI world* on *27th July,2019*
+ - Conducted an interactive session at WomenDroid Meetup: [SpeakUp](https://twitter.com/WomenDroid/status/1167079658463977472) on 7th September, 2019.
+ - Spoke at [Droidcon NYC, 2019](https://www.nyc.droidcon.com/speaker/Garima-Jain): *Flowing Things, not so strange in the MVI world* on *27th July,2019*
  - Speaking at [Droidcon London, 2019](https://skillsmatter.com/conferences/11785-droidcon-london-2019#program): *Co-routinify your Architecture Components* on *October, 2019*
  - Spoke at [Droidcon Berlin, 2019](https://www.droidcon.com/media-detail?video=353348763): *A LUT (lot) of image filters on Android* on *July, 2019*
  - Started working for [Over](https://madewithover.com/).
