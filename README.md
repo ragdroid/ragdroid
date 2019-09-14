@@ -8,7 +8,7 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is work
  - Started working for [Over](https://madewithover.com/).
  - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
  - Gave a talk at [Droidjam India, 2018](https://www.youtube.com/watch?v=IRCd6aftFkE&index=12&t=2s&list=PLbgP71NCXCqFr6djMCR3KnZez31toGXS3) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
- - Gave a talk at [Chicago Roboto, 2018](https://chicagoroboto.com/sessions/dagger-2-android-defeat-dahaka/) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
+ - Gave a talk at [Chicago Roboto, 2018](https://www.youtube.com/watch?v=3VNQYZHRQf4) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
  - Gave a talk at [Droidcon Boston, 2018](https://www.youtube.com/watch?time_continue=358&v=KpuFW-jamVo) : *"Why MVI? - Curious case of yet another pattern"* on *27th March, 2018* 
  - Co-Organized [Droidcon Boston, 2018](http://www.droidcon-boston.com/) on *26th - 27th March, 2018* 
 
@@ -38,7 +38,7 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is work
  - Speaker : [Droidcon Berlin, 2019](https://www.droidcon.com/media-detail?video=353348763): *A LUT (lot) of image filters on Android* on *July, 2019*
  - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
  - Speaker : [Droidjam India, 2018](https://www.youtube.com/watch?v=IRCd6aftFkE&index=12&t=2s&list=PLbgP71NCXCqFr6djMCR3KnZez31toGXS3) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
- - Speaker : [Chicago Roboto, 2018](https://chicagoroboto.com/sessions/dagger-2-android-defeat-dahaka/) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
+ - Speaker : [Chicago Roboto, 2018](https://www.youtube.com/watch?v=3VNQYZHRQf4) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
  - Speaker : [Droidcon Boston, 2018](https://www.youtube.com/watch?time_continue=358&v=KpuFW-jamVo) : *"Why MVI? - Curious case of yet another pattern"* on *26th-27th March, 2018* 
  - Co-organizer : [Droidcon Boston, 2018](http://www.droidcon-boston.com/) *26th-27th March, 2018* 
  - Speaker : [DevFest New Delhi, 2017](https://www.meetup.com/GDGNewDelhi/events/243302149/) : *"Dagger 2 Android : Defeat the Dahaka"*
