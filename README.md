@@ -2,8 +2,8 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is work
 
 ### Latest
  - Conducted an interactive session at WomenDroid Meetup: [SpeakUp](https://twitter.com/WomenDroid/status/1167079658463977472) on 7th September, 2019.
- - Spoke at [Droidcon NYC, 2019](https://www.nyc.droidcon.com/speaker/Garima-Jain): *Flowing Things, not so strange in the MVI world* on *27th July,2019*
- - Speaking at [Droidcon London, 2019](https://skillsmatter.com/conferences/11785-droidcon-london-2019#program): *Co-routinify your Architecture Components* on *October, 2019*
+ - Spoke at [Droidcon NYC, 2019](https://www.droidcon.com/media-detail?video=362742238): *Flowing Things, not so strange in the MVI world* on *27th July,2019*
+ - Speaking at [Droidcon London, 2019](https://skillsmatter.com/conferences/11785-droidcon-london-2019#program): *Flowing Things, not so strange in the MVI world* on *27th July,2019* on *October, 2019*
  - Spoke at [Droidcon Berlin, 2019](https://www.droidcon.com/media-detail?video=353348763): *A LUT (lot) of image filters on Android* on *July, 2019*
  - Started working for [Over](https://madewithover.com/).
  - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
