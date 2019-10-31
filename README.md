@@ -1,9 +1,9 @@
 Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is working as an Android Engineer at [Over](https://madewithover.com/). Previously she has worked with [Fueled](https://fueled.com/) Noida and [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also an international speaker and an active technical blogger. She has done her post-graduation from [IIT Jodhpur](http://iitj.ac.in/).
 
 ### Latest
+ - Spoke at [Droidcon London, 2019](https://skillsmatter.com/skillscasts/14164-flowing-things-not-so-strange-in-the-mvi-world): *Flowing Things, not so strange in the MVI world* on *27th July,2019* on *October, 2019*
  - Conducted an interactive session at WomenDroid Meetup: [SpeakUp](https://twitter.com/WomenDroid/status/1167079658463977472) on 7th September, 2019.
  - Spoke at [Droidcon NYC, 2019](https://www.droidcon.com/media-detail?video=362742238): *Flowing Things, not so strange in the MVI world* on *27th July,2019*
- - Speaking at [Droidcon London, 2019](https://skillsmatter.com/conferences/11785-droidcon-london-2019#program): *Flowing Things, not so strange in the MVI world* on *27th July,2019* on *October, 2019*
  - Spoke at [Droidcon Berlin, 2019](https://www.droidcon.com/media-detail?video=353348763): *A LUT (lot) of image filters on Android* on *July, 2019*
  - Started working for [Over](https://madewithover.com/).
  - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
@@ -34,7 +34,9 @@ Garima Jain, also known as [**@ragdroid**](https://twitter.com/ragdroid) is work
  - Snapchat? Orkut? :P
  
 ### Community Experience
-
+ - Speaker : [Droidcon London, 2019](https://skillsmatter.com/skillscasts/14164-flowing-things-not-so-strange-in-the-mvi-world): *Flowing Things, not so strange in the MVI world* on *27th July,2019* on *October, 2019*
+ - Workshop : WomenDroid Meetup: [SpeakUp](https://twitter.com/WomenDroid/status/1167079658463977472) on 7th September, 2019.
+ - Speaker : [Droidcon NYC, 2019](https://www.droidcon.com/media-detail?video=362742238): *Flowing Things, not so strange in the MVI world* on *27th July,2019*
  - Speaker : [Droidcon Berlin, 2019](https://www.droidcon.com/media-detail?video=353348763): *A LUT (lot) of image filters on Android* on *July, 2019*
  - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
  - Speaker : [Droidjam India, 2018](https://www.youtube.com/watch?v=IRCd6aftFkE&index=12&t=2s&list=PLbgP71NCXCqFr6djMCR3KnZez31toGXS3) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
@@ -78,6 +80,7 @@ She likes to share her findings and experiments with the community and here's a 
 
 She has the following open-source demo projects :
 
+ - [Klayground-Flow](https://github.com/ragdroid/klayground/pull/7) (Migrate an Rx MVI app to use coroutines Flow)
  - [Rxify](https://github.com/ragdroid/rxify) (RxJava)
  - [Mockstar](https://github.com/ragdroid/mockstar) (Testing)
  - [Dahaka](https://github.com/ragdroid/Dahaka) (Dagger 2)
