@@ -1,7 +1,7 @@
 Garima Jain, Google Developer Expert - Android, also known as [**@ragdroid**](https://twitter.com/ragdroid) is working as an Android Engineer at [Over](https://madewithover.com/). Previously she has worked with [Fueled](https://fueled.com/) Noida and [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also an international speaker and an active technical blogger. She has done her post-graduation from [IIT Jodhpur](http://iitj.ac.in/).
 
 ### Latest
- - Became first women Android GDE from India
+ - Became first woman Android GDE from India
  - Spoke at [BlrDroid meetup](https://www.meetup.com/blrdroid/events/265552112/): *Flowing Things, not so strange in the MVI world* on *17th November, 2019*
  - Spoke at [Droidcon London, 2019](https://skillsmatter.com/skillscasts/14164-flowing-things-not-so-strange-in-the-mvi-world): *Flowing Things, not so strange in the MVI world* on *October, 2019*
  - Conducted an interactive session at WomenDroid Meetup: [SpeakUp](https://twitter.com/WomenDroid/status/1167079658463977472) on 7th September, 2019.
