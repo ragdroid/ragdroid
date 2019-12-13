@@ -1,4 +1,4 @@
-Garima Jain, Google Developer Expert - Android, also known as [**@ragdroid**](https://twitter.com/ragdroid) is working as an Android Engineer at [Over](https://madewithover.com/). Previously she has worked with [Fueled](https://fueled.com/) Noida and [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also an international speaker and an active technical blogger. She has done her post-graduation from [IIT Jodhpur](http://iitj.ac.in/).
+Garima Jain, [Google Developer Expert - Android](https://developers.google.com/community/experts/directory/profile/profile-garima_jain), also known as [**@ragdroid**](https://twitter.com/ragdroid) is working as an Android Engineer at [Over](https://madewithover.com/). Previously she has worked with [Fueled](https://fueled.com/) Noida and [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also an international speaker and an active technical blogger. She has done her post-graduation from [IIT Jodhpur](http://iitj.ac.in/).
 
 ### Latest
  - Became first woman Android GDE from India
