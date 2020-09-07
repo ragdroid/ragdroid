@@ -17,7 +17,7 @@ Garima Jain, [Google Developer Expert - Android](https://developers.google.com/c
 ### Coolest \m/
 
  - **Android Dialogs** with [Garima Jain : Rxify : RxJava + Harry Potter](https://www.youtube.com/watch?v=5JO7Q6HO52w)
- - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
+ - [Android Weekly Issue 417](https://androidweekly.net/issues/issue-417) (Coroutines: Suspending State Machines)
  - [Android Weekly Issue 352](https://androidweekly.net/issues/issue-352) (*Rxify: Retry with Exponential Backoff in RxJava*) 
  - [Android Weekly Issue 320](https://androidweekly.net/issues/issue-320) (*No Version? No Problem! .. Jitpack comes to the rescue*)
  - [Android Weekly Issue 310](https://androidweekly.net/issues/issue-310) (*`Rxify` : The startWith { MVI } pitfall*)
@@ -25,6 +25,7 @@ Garima Jain, [Google Developer Expert - Android](https://developers.google.com/c
  - [Android Weekly Issue 265](http://androidweekly.net/issues/issue-265) (*Dagger 2 : Defeat the Dahaka*) Two articles in an issue!! Woohoo!
  - [Android Weekly Issue 248](http://androidweekly.net/issues/issue-248) (*How to be a Mock Star?*)
  - [Android Weekly Issue 233](http://androidweekly.net/issues/issue-233) (*`Rxify` : The Anti Cache-then-Network OR Network-then-Cache Problem*)
+ - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
 
 ### Social Links
  - [Twitter : @ragdroid](https://twitter.com/ragdroid)
@@ -36,6 +37,8 @@ Garima Jain, [Google Developer Expert - Android](https://developers.google.com/c
  - Snapchat? Orkut? :P
  
 ### Community Experience
+ - Speaker: [360|AnDev 2020](https://www.youtube.com/watch?reload=9&v=mU6x7CY1Moc&ab_channel=JohnWilker) *Meaningful vector animations using Shape Shifter* on *17th July, 2020*
+ - Speaker :  [Android Makers](https://www.youtube.com/watch?v=e_r4d-33GDY&ab_channel=AndroidMakers) *Flowing Things, not so strange in the MVI world* on *21st April, 2020*
  - Speaker : [BlrDroid meetup](https://www.meetup.com/blrdroid/events/265552112/): *Flowing Things, not so strange in the MVI world* on *17th November, 2019*
  - Speaker : [Droidcon London, 2019](https://skillsmatter.com/skillscasts/14164-flowing-things-not-so-strange-in-the-mvi-world): *Flowing Things, not so strange in the MVI world* on *27th July,2019* on *October, 2019*
  - Workshop : WomenDroid Meetup: [SpeakUp](https://twitter.com/WomenDroid/status/1167079658463977472) on 7th September, 2019.
@@ -55,6 +58,8 @@ Garima Jain, [Google Developer Expert - Android](https://developers.google.com/c
 ### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her.
+ - June, 2020 : [Coroutines: Suspending State Machines](https://medium.com/google-developer-experts/coroutines-suspending-state-machines-36b189f8aa60)
+ - March, 2020 : [The Remote Way](https://medium.com/over-engineering/the-remote-way-805e3e37bad6)
  - March, 2019 : [Rxify: Retry with Exponential Backoff in RxJava](https://medium.com/over-engineering/rxify-exponential-backoff-on-retry-48bb66912391)
  - March, 2019 :  [Kotlin : When if-else is too mainstream](https://medium.com/@ragdroid/kotlin-when-if-else-is-too-mainstream-acc4b91c2416) 
  - July, 2018 : [Rxify: Error Handling with Subjects (RxRelays)](https://articles.caster.io/android/rxify-error-handling-with-subjects-relays/)
@@ -84,6 +89,7 @@ She likes to share her findings and experiments with the community and here's a 
 She has the following open-source demo projects :
 
  - [Klayground-Flow](https://github.com/ragdroid/klayground/pull/7) (Migrate an Rx MVI app to use coroutines Flow)
+ - [Meaningful Vector Animations](https://github.com/ragdroid/meaningful-vector-animations)
  - [Rxify](https://github.com/ragdroid/rxify) (RxJava)
  - [Mockstar](https://github.com/ragdroid/mockstar) (Testing)
  - [Dahaka](https://github.com/ragdroid/Dahaka) (Dagger 2)
