@@ -37,7 +37,7 @@ Garima Jain, [Google Developer Expert - Android](https://developers.google.com/c
  - Snapchat? Orkut? :P
  
 ### Community Experience
- - Speaker: [360|AnDev 2020](https://www.youtube.com/watch?reload=9&v=mU6x7CY1Moc&ab_channel=JohnWilker) *Meaningful vector animations using Shape Shifter* on *17th July, 2020*
+ - Speaker: [360 AnDev 2020](https://www.youtube.com/watch?reload=9&v=mU6x7CY1Moc&ab_channel=JohnWilker) *Meaningful vector animations using Shape Shifter* on *17th July, 2020*
  - Speaker :  [Android Makers](https://www.youtube.com/watch?v=e_r4d-33GDY&ab_channel=AndroidMakers) *Flowing Things, not so strange in the MVI world* on *21st April, 2020*
  - Speaker : [BlrDroid meetup](https://www.meetup.com/blrdroid/events/265552112/): *Flowing Things, not so strange in the MVI world* on *17th November, 2019*
  - Speaker : [Droidcon London, 2019](https://skillsmatter.com/skillscasts/14164-flowing-things-not-so-strange-in-the-mvi-world): *Flowing Things, not so strange in the MVI world* on *27th July,2019* on *October, 2019*
