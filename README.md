@@ -1,13 +1,19 @@
-Garima Jain, [Google Developer Expert - Android](https://developers.google.com/community/experts/directory/profile/profile-garima_jain), also known as [**@ragdroid**](https://twitter.com/ragdroid) is working as an Android Engineer at [GoDaddy](https://godaddy.com). Previously she has worked with [Fueled](https://fueled.com/) Noida and [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also an international speaker and an active technical blogger. She has done her post-graduation from [IIT Jodhpur](http://iitj.ac.in/). She enjoys interacting with other people from the community and sharing her thoughts with them. In her leisure time, she loves watching television shows, playing TT and basketball. Due to her love for fiction and coding, she loves to mix technology with fiction to present her ideas and experiments with others.
+Garima Jain, [Google Developer Expert - Android](https://developers.google.com/community/experts/directory/profile/profile-garima_jain), also known as [**@ragdroid**](https://twitter.com/ragdroid) is working as a Principal Android Engineer at [GoDaddy Studio](https://www.godaddy.com/en-za/studio). Previously she has worked with [Fueled](https://fueled.com/) Noida and [Bharti Soft Bank](https://www.crunchbase.com/organization/bsb) (Hoppr, Hike). She is also an international speaker and an active technical blogger. She has done her post-graduation from [IIT Jodhpur](http://iitj.ac.in/). She enjoys interacting with other people from the community and sharing her thoughts with them. In her leisure time, she loves watching television shows, playing TT and basketball. Due to her love for fiction and coding, she loves to mix technology with fiction to present her ideas and experiments with others.
 
 ### Latest
+ - Speaker: Official Android Youtube Channel: [MAD Skills, Community Tip](https://www.youtube.com/watch?v=cfak1jDKM_4): Separating entities per layer
+ - Book Review: [Kotlin Coroutines Deep Dive](https://kt.academy/book/coroutines) in 2021
+ - Mentorship: [Google's Road to GDE program](https://developers.googleblog.com/2021/09/mentoring-future-women-experts.html): Mentored two female Android developers in *May and December 2021*
+ - Speaker: [Droidcon Italy 2020](https://www.youtube.com/watch?v=mSCW8wFWz5k&ab_channel=AndroidHeroes) *A LUT (lot) of image filters on Android* in *November, 2020*
+ - Speaker: [DroidKnights 2020](https://www.youtube.com/watch?v=H9_R0kXk57E&ab_channel=DroidKnights) *A LUT (lot) of image filters on Android* in *September, 2020*
+ - Speaker: [360 AnDev 2020](https://www.youtube.com/watch?reload=9&v=mU6x7CY1Moc&ab_channel=JohnWilker) *Meaningful vector animations using Shape Shifter* on *17th July, 2020*
+ - Speaker :  [Android Makers](https://www.youtube.com/watch?v=e_r4d-33GDY&ab_channel=AndroidMakers) *Flowing Things, not so strange in the MVI world* on *21st April, 2020*
  - Became first woman Android GDE from India
- - Spoke at [BlrDroid meetup](https://www.meetup.com/blrdroid/events/265552112/): *Flowing Things, not so strange in the MVI world* on *17th November, 2019*
  - Spoke at [Droidcon London, 2019](https://skillsmatter.com/skillscasts/14164-flowing-things-not-so-strange-in-the-mvi-world): *Flowing Things, not so strange in the MVI world* on *October, 2019*
  - Conducted an interactive session at WomenDroid Meetup: [SpeakUp](https://twitter.com/WomenDroid/status/1167079658463977472) on 7th September, 2019.
  - Spoke at [Droidcon NYC, 2019](https://www.droidcon.com/media-detail?video=362742238): *Flowing Things, not so strange in the MVI world* on *27th July,2019*
  - Spoke at [Droidcon Berlin, 2019](https://www.droidcon.com/media-detail?video=353348763): *A LUT (lot) of image filters on Android* on *July, 2019*
- - Started working for [Over](https://madewithover.com/).
+ - Started working for [GoDaddy Studio](https://www.godaddy.com/en-za/studio).
  - Joined [CasterIO](https://articles.caster.io/author/gjain/) as an Author.
  - Gave a talk at [Droidjam India, 2018](https://www.youtube.com/watch?v=IRCd6aftFkE&index=12&t=2s&list=PLbgP71NCXCqFr6djMCR3KnZez31toGXS3) : *Why not MVPI or MVVMI* with [Ritesh Gupta](http://riteshhh.com/) on *14th July, 2018*
  - Gave a talk at [Chicago Roboto, 2018](https://www.youtube.com/watch?v=3VNQYZHRQf4) : *"Dagger 2 Android : Defeat the Dahaka"* on *13th April, 2018*
